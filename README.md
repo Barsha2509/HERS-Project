@@ -1,6 +1,5 @@
 # HERS-Project
-This dataset is from HERS clinical trial of hormone therapy in postmenopausal women.  
-The aim of this project is to explore possible factors that can predict the level of  LDL(Low density Lipoprotein) cholesterol levels in the postmenopausal women. 
+This dataset is from HERS clinical trial of hormone therapy in postmenopausal women.  The aim of this project is to explore possible factors that can predict the level of  LDL(Low density Lipoprotein) cholesterol levels in the postmenopausal women. 
 The analyzed factors consists of 7 continuous variables, including DBP (Diastolic Blood Pressure),SBP(Systolic Blood Pressure), age, TG(Triglycerides),  BMI(Body Mass Index), HDL(High density Lipoprotein cholesterol), glucose(glucose level), and 2 categorical variables, including smoking and race.
 Linear regression analysis method was used for this project. First, data cleaning was done and then visually analyzed the distribution and correlation of each variables in raw data. After that, the raw dataset was divided into training set and testing set by the ratio of 2:1. 
 Next, the analysis and diagnostics of training data was performed. First, training dataset was visually analyzed with the help ofbox plot, histogram , qqplot, scatter matrix and correlation matrix to get the view of the data distribution and correlation. 
